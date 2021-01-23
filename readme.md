@@ -1,3 +1,5 @@
+use data/prepare_maestro.sh (from https://github.com/jongwook/onsets-and-frames/blob/master/data/prepare_maestro.sh)
+
 To train:
 
 ```
